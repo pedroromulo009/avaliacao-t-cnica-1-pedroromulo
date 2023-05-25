@@ -29,8 +29,10 @@ public class ResultadosTest {
         Assertions.assertEquals(familias, familiasAptadas);
 
 
-        
-    }
-
     
 }
+
+}
+
+
+

@@ -1,7 +1,6 @@
 package com.example.Projeto.models;
 
 import java.util.List;
-
 import javax.persistence.ManyToMany;
 
 
